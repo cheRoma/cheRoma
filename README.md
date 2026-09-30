@@ -33,7 +33,7 @@
 | **[idea-stress-test](https://github.com/cheRoma/idea-stress-test)** | Скилл для Claude Code: проверяет бизнес-идею на прочность до того, как её начнут строить, и заканчивает вердиктом GO / TEST-FIRST / NO-GO |
 | **[m-planner](https://github.com/cheRoma/m-planner)** | Свадебный планировщик, живущий внутри Telegram: спецификация, ревью и планы реализации |
 | **[stillU](https://github.com/cheRoma/stillU)** | Исходники Still You — NestJS, Prisma, React, ЮKassa |
-| **[gbrain-link-chat](https://github.com/cheRoma/gbrain-link-chat)** | Вклад в чужой проект: фаза `link_chat` и защита тестового прогона от затирания базы |
+| **[gbrain](https://github.com/garrytan/gbrain/pull/5747)** | Вклад в чужой проект: три наших исправления вошли в релиз v0.60.11.0 системы памяти для ИИ-агентов, авторство указано в списке изменений. Свой форк с фазой `link_chat` — [gbrain-link-chat](https://github.com/cheRoma/gbrain-link-chat) |
 
 <details>
 <summary><b>English</b></summary>
@@ -48,7 +48,7 @@
 
 **Shipped:** a business-park website that draws its own floor plans and generates a quote on the spot · a debt-collection pipeline that produces the full document set in about four seconds · a women's community platform inside Telegram · and, for fun, an Android launcher for a 2005 BMW X5 that reads the car's I-Bus over USB.
 
-**Open source:** [bmw-idrive-launcher](https://github.com/cheRoma/bmw-idrive-launcher) (Kotlin/Compose, tested logic, screenshot-tested screens) · [idea-stress-test](https://github.com/cheRoma/idea-stress-test) (a Claude Code skill that argues with your business idea before you build it) · [m-planner](https://github.com/cheRoma/m-planner) · [stillU](https://github.com/cheRoma/stillU).
+**Open source:** [bmw-idrive-launcher](https://github.com/cheRoma/bmw-idrive-launcher) (Kotlin/Compose, tested logic, screenshot-tested screens) · [idea-stress-test](https://github.com/cheRoma/idea-stress-test) (a Claude Code skill that argues with your business idea before you build it) · [m-planner](https://github.com/cheRoma/m-planner) · [stillU](https://github.com/cheRoma/stillU). Upstream: three of our fixes to [gbrain](https://github.com/garrytan/gbrain/pull/5747), an open-source memory system for AI agents, shipped in v0.60.11.0 and are credited in its changelog.
 
 </details>
 
